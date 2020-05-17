@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "473347222297",
+    "firebase_url": "https://calculmobil.firebaseio.com",
+    "project_id": "calculmobil",
+    "storage_bucket": "calculmobil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473347222297:android:b7388e6dd26c89d7b2f388",
+        "android_client_info": {
+          "package_name": "com.example.calculmobil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473347222297-bg37fio0vte8h3kllk61f37qc33gvm80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.calculmobil",
+            "certificate_hash": "a7118535f25439b33ba9573cf462454feb6cced0"
+          }
+        },
+        {
+          "client_id": "473347222297-lv4c16lcvsujonckn53e9em3av2ple5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvLtLjq4glAcyor_biva0ao87KEzBTgvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473347222297-lv4c16lcvsujonckn53e9em3av2ple5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
