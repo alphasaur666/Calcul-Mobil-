@@ -1,8 +1,3 @@
 <resources>
-    <string name="app_name">CalculMobil</string>
-    <string-array name="transactions">
-        <item>First Transaction - 01.11.1997</item>
-        <item>Second Transaction - 12.11.1997</item>
-        <item>Third Transaction - 19.11.2000</item>
-    </string-array>
+    <string name="app_name">SqliteTutorial</string>
 </resources>
